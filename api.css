@@ -1,0 +1,11 @@
+body{
+    /* background-image: url("https://img.freepik.com/free-vector/cat-lover-pattern-background-design_53876-100662.jpg"); */
+   
+    background-image: url("https://static.vecteezy.com/system/resources/previews/024/569/685/non_2x/empty-space-background-with-cat-illustration-ai-generative-free-photo.jpg");
+    text-align: center;
+    background-size: cover;
+}
+h1,button{
+    text-decoration: underline;
+    margin-bottom: 1.5rem;
+}
